@@ -1,4 +1,7 @@
-# Engineer. Mostly with nuts and bolts. Sometimes with bits and bytes.
+## Engineer. Mostly with nuts and bolts. Sometimes with bits and bytes.
+I like simulation software. I like suckless software.
+Looking for help with tubular and gweaver.
+
 <!--
 **Thaddeus-Maximus/thaddeus-maximus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
