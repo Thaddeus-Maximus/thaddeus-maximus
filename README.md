@@ -1,5 +1,5 @@
 ## Engineer. Mostly with nuts and bolts. Sometimes with bits and bytes.
-I like simulation software. I like suckless software. I like appropriate/intermediate technology.
+I like appropriate/intermediate/suckless technology.
 
 <!--
 **Thaddeus-Maximus/thaddeus-maximus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
